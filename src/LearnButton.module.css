@@ -1,0 +1,21 @@
+.learnButton:hover {
+  background-color: #044157;
+  transform: translateY(-4px) scale(1.05);
+  transition: all 0.3s ease;
+}
+
+.learnButton {
+  background-color: #38aed9;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+  margin-top: 1rem;
+  margin-left: 5%;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  transition: all 0.3s ease;
+}
